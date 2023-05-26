@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript,CSS,HTML,Sass**
 
-- 👨‍💻 All of my projects are available at [sergeyfanasyan.ru](sergeyfanasyan.ru)
+- 👨‍💻 All of my projects are available at [sergeyfanasyan.ru](https://sergeyfanasyan.ru/)
 
 - 💬 Ask me about **CSS,HTML,JavaScript,Sass**
 
