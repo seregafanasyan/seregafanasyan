@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **JavaScript,CSS,HTML,Sass**
 
-- 👨‍💻 All of my projects are available at [sergeyfanasyan.com](sergeyfanasyan.com)
+- 👨‍💻 All of my projects are available at [sergeyfanasyan.ru](sergeyfanasyan.ru)
 
 - 💬 Ask me about **CSS,HTML,JavaScript,Sass**
 
-- 📫 How to reach me **seregafanasyan@gmail.com**
+- 📫 How to reach me **broserega22@gmail.com**
 
-- 📄 Know about my experiences [sergeyfanasyan.com](sergeyfanasyan.com)
+- 📄 Know about my experiences [sergeyfanasyan.ru](sergeyfanasyan.ru)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
