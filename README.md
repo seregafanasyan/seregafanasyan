@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **broserega22@gmail.com**
 
-- 📄 Know about my experiences [sergeyfanasyan.ru](sergeyfanasyan.ru)
+- 📄 Know about my experiences [sergeyfanasyan.ru](https://sergeyfanasyan.ru/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
